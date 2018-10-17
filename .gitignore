@@ -1,5 +1,6 @@
 node_modules
-dist
+packages/react-dnd/dist
+packages/react-dnd-html5-backend/dist
 lib
 .DS_Store
 .idea
